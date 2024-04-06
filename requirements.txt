@@ -1,0 +1,5 @@
+datasets
+jupyter
+git+https://github.com/huggingface/transformers
+torch
+matplotlib
