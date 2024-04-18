@@ -1,4 +1,4 @@
-# Fine-tuning flan-t5-xl on Spider Dataset
+# Fine-tuning flan-t5-base on Spider Dataset
 
 This repository contains the code and instructions for fine-tuning the `flan-t5-base` language model on the Spider dataset for text-to-SQL tasks.
 
